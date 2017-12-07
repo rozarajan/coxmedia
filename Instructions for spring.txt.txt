@@ -1,0 +1,9 @@
+It is a maven project
+Import it as maven
+run - maven install
+you will get a war in target
+start the tomcat in command prompt
+copy  the war and place it in webapps folder of tomcat
+http://localhost:8080/SpringPerf/index.jsp  , change as per you tomcat settings
+you can see 
+Welcome to Perficient the tomcat in command prompt
